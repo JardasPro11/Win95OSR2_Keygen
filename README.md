@@ -10,3 +10,5 @@ Tenhle Python skript dokáže vygenerovat platné Windows 95 OSR2 klíče díky 
 - Všechny čísla v posledním poli jsou nepodstatné, může to být i náhodné pěti místné číslo.
 
 Tenhle skript je udělán tak, aby splňoval všechny tyhle pravidla, což znamená že díky tomu dokáže generovat 100% platné Windows 95 OSR2 OEM Klíče!  
+
+## Volitelné Argumenty
